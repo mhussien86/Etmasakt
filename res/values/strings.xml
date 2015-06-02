@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, HelpActivity!</string>
+    <string name="app_name">Etmasakt</string>
+    <string name="m_s">Message To Send</string>
+    <string name="p_n">Phone Numbers</string>
+    <string name="save_btn">Continue </string>
+    <string name="send_btn">Send</string>
+    <string name="send_location">Send Location</string>
+    <string name="skip_btn">Add Location</string>
+    <string name="txt_v">(For Help Open Menu) </string>
+    <string name="check_bos">Enable Location in message</string>
+</resources>
